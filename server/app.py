@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+# Author: Hunter Steele
+# Date: 12/12/25
+# Version: 1.1
+
 """
 Minimal Flask application for the Flatiron Cars lab.
 
