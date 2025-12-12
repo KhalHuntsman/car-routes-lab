@@ -9,14 +9,20 @@ The focus is on defining static and dynamic routes and validating behavior using
 ## Project Structure
 
 car-routes-lab/
-car-routes-lab/server/
-car-routes-lab/server/app.py
-car-routes-lab/server/testing/
-car-routes-lab/server/testing/app_test.py
-car-routes-lab/server/testing/conftest.py
-car-routes-lab/pytest.ini
-car-routes-lab/README.md
 
+car-routes-lab/server/
+
+car-routes-lab/server/app.py
+
+car-routes-lab/server/testing/
+
+car-routes-lab/server/testing/app_test.py
+
+car-routes-lab/server/testing/conftest.py
+
+car-routes-lab/pytest.ini
+
+car-routes-lab/README.md
 
 - server/app.py contains the Flask application and route definitions
 - server/testing/app_test.py holds automated tests for each route
